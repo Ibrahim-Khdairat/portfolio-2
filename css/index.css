@@ -1,0 +1,168 @@
+
+section
+{
+    height: 700px;
+    z-index: 1;
+ 
+
+    background-image: -webkit-linear-gradient( 0deg,#766dff 0%,#88f3ff 100% );
+}
+
+header
+{
+    height: 70px;
+    background-color: black;
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+}
+
+header nav ul li
+{
+    display: inline-block;
+    padding-left: 100px;
+}
+
+header nav ul li a 
+{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: sans-serif;
+    height: 40px;
+    line-height: 40px;
+}
+
+#meet
+{
+    font-size: xx-large;
+    width: 200px;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding-left: 170px;
+    height: 70px;
+    line-height: 70px;
+  
+ 
+
+}
+
+
+
+header nav 
+{
+    float: right;
+    margin-right: 200px;
+    height: 70px;
+    line-height: 70px;
+
+}
+
+#Container
+{
+   position: absolute;
+  top: 40%;
+  left: 12%;
+  width: 1170px;
+    height: 760px;
+    background-color: white;
+    box-shadow: black 1px  2px ;
+    border-radius: 15px;
+  
+}
+
+#imgCont
+{
+    float: left;
+    padding: 30px;
+}
+
+#information
+{
+    font-family: sans-serif;
+
+    float: right;
+    width: 300px;
+    padding: 30px;
+    padding-right: 50px;
+}
+
+#information h6
+{
+ font-size: 14px;
+ 
+ padding: 20px;
+ padding-left: 0%;
+ padding-top: 60px;
+}
+
+#information h3
+{
+ font-size: 48px;
+ padding-bottom: 20px;
+ font-weight: bolder;
+}
+#information h4
+{
+ font-size: 16px;
+ padding-bottom: 20px;
+
+}
+#information p
+{
+ font-size: 16px;
+ line-height: 20px;
+
+}
+
+#information ul
+{
+    margin-top: 20px;
+}
+#information ul li
+{
+    padding: 20px;
+    padding-left: 0%;
+}
+
+#information ul li i
+{
+    color: #777777;
+    font-weight: bolder;
+    width: 20px;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+#information ul li a
+{
+    color: #777777;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+#information div
+{
+    padding: 40px;
+}
+
+#information div a
+{
+    padding-right: 15px;
+
+
+   
+}
+
+#information div a i
+{
+font-size: 45px;
+color: grey;
+}
+
+#information div a :hover
+{
+    background-image: -webkit-linear-gradient( 0deg,#766dff 0%,#88f3ff 100% );
+}
